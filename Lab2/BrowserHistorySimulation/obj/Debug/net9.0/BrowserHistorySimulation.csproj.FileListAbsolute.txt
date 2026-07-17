@@ -1,0 +1,14 @@
+C:\Users\user1\source\repos\CE138_Lab2\BrowserHistorySimulation\bin\Debug\net9.0\BrowserHistorySimulation.exe
+C:\Users\user1\source\repos\CE138_Lab2\BrowserHistorySimulation\bin\Debug\net9.0\BrowserHistorySimulation.deps.json
+C:\Users\user1\source\repos\CE138_Lab2\BrowserHistorySimulation\bin\Debug\net9.0\BrowserHistorySimulation.runtimeconfig.json
+C:\Users\user1\source\repos\CE138_Lab2\BrowserHistorySimulation\bin\Debug\net9.0\BrowserHistorySimulation.dll
+C:\Users\user1\source\repos\CE138_Lab2\BrowserHistorySimulation\bin\Debug\net9.0\BrowserHistorySimulation.pdb
+C:\Users\user1\source\repos\CE138_Lab2\BrowserHistorySimulation\obj\Debug\net9.0\BrowserHistorySimulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\CE138_Lab2\BrowserHistorySimulation\obj\Debug\net9.0\BrowserHistorySimulation.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\CE138_Lab2\BrowserHistorySimulation\obj\Debug\net9.0\BrowserHistorySimulation.AssemblyInfo.cs
+C:\Users\user1\source\repos\CE138_Lab2\BrowserHistorySimulation\obj\Debug\net9.0\BrowserHistorySimulation.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\CE138_Lab2\BrowserHistorySimulation\obj\Debug\net9.0\BrowserHistorySimulation.dll
+C:\Users\user1\source\repos\CE138_Lab2\BrowserHistorySimulation\obj\Debug\net9.0\refint\BrowserHistorySimulation.dll
+C:\Users\user1\source\repos\CE138_Lab2\BrowserHistorySimulation\obj\Debug\net9.0\BrowserHistorySimulation.pdb
+C:\Users\user1\source\repos\CE138_Lab2\BrowserHistorySimulation\obj\Debug\net9.0\BrowserHistorySimulation.genruntimeconfig.cache
+C:\Users\user1\source\repos\CE138_Lab2\BrowserHistorySimulation\obj\Debug\net9.0\ref\BrowserHistorySimulation.dll

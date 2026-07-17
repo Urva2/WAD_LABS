@@ -1,0 +1,14 @@
+D:\WAD\Urva_138_Lab1\Develop\bin\Debug\net9.0\Develop.exe
+D:\WAD\Urva_138_Lab1\Develop\bin\Debug\net9.0\Develop.deps.json
+D:\WAD\Urva_138_Lab1\Develop\bin\Debug\net9.0\Develop.runtimeconfig.json
+D:\WAD\Urva_138_Lab1\Develop\bin\Debug\net9.0\Develop.dll
+D:\WAD\Urva_138_Lab1\Develop\bin\Debug\net9.0\Develop.pdb
+D:\WAD\Urva_138_Lab1\Develop\obj\Debug\net9.0\Develop.GeneratedMSBuildEditorConfig.editorconfig
+D:\WAD\Urva_138_Lab1\Develop\obj\Debug\net9.0\Develop.AssemblyInfoInputs.cache
+D:\WAD\Urva_138_Lab1\Develop\obj\Debug\net9.0\Develop.AssemblyInfo.cs
+D:\WAD\Urva_138_Lab1\Develop\obj\Debug\net9.0\Develop.csproj.CoreCompileInputs.cache
+D:\WAD\Urva_138_Lab1\Develop\obj\Debug\net9.0\Develop.dll
+D:\WAD\Urva_138_Lab1\Develop\obj\Debug\net9.0\refint\Develop.dll
+D:\WAD\Urva_138_Lab1\Develop\obj\Debug\net9.0\Develop.pdb
+D:\WAD\Urva_138_Lab1\Develop\obj\Debug\net9.0\Develop.genruntimeconfig.cache
+D:\WAD\Urva_138_Lab1\Develop\obj\Debug\net9.0\ref\Develop.dll

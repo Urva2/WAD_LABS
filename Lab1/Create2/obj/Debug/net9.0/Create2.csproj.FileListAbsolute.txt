@@ -1,0 +1,14 @@
+D:\WAD\Urva_138_Lab1\Create2\bin\Debug\net9.0\Create2.exe
+D:\WAD\Urva_138_Lab1\Create2\bin\Debug\net9.0\Create2.deps.json
+D:\WAD\Urva_138_Lab1\Create2\bin\Debug\net9.0\Create2.runtimeconfig.json
+D:\WAD\Urva_138_Lab1\Create2\bin\Debug\net9.0\Create2.dll
+D:\WAD\Urva_138_Lab1\Create2\bin\Debug\net9.0\Create2.pdb
+D:\WAD\Urva_138_Lab1\Create2\obj\Debug\net9.0\Create2.GeneratedMSBuildEditorConfig.editorconfig
+D:\WAD\Urva_138_Lab1\Create2\obj\Debug\net9.0\Create2.AssemblyInfoInputs.cache
+D:\WAD\Urva_138_Lab1\Create2\obj\Debug\net9.0\Create2.AssemblyInfo.cs
+D:\WAD\Urva_138_Lab1\Create2\obj\Debug\net9.0\Create2.csproj.CoreCompileInputs.cache
+D:\WAD\Urva_138_Lab1\Create2\obj\Debug\net9.0\Create2.dll
+D:\WAD\Urva_138_Lab1\Create2\obj\Debug\net9.0\refint\Create2.dll
+D:\WAD\Urva_138_Lab1\Create2\obj\Debug\net9.0\Create2.pdb
+D:\WAD\Urva_138_Lab1\Create2\obj\Debug\net9.0\Create2.genruntimeconfig.cache
+D:\WAD\Urva_138_Lab1\Create2\obj\Debug\net9.0\ref\Create2.dll

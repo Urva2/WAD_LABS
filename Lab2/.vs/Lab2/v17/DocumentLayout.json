@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user1\\source\\repos\\CE138_Lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EC1BCBA-2906-4B88-8913-38B6096D1B8B}|BrowserHistorySimulation\\BrowserHistorySimulation.csproj|c:\\users\\user1\\source\\repos\\ce138_lab2\\browserhistorysimulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EC1BCBA-2906-4B88-8913-38B6096D1B8B}|BrowserHistorySimulation\\BrowserHistorySimulation.csproj|solutionrelative:browserhistorysimulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934DA704-89D8-4D5F-8AA8-8EA3A601AE9E}|Use_of_Dictionary\\Use_of_Dictionary.csproj|c:\\users\\user1\\source\\repos\\ce138_lab2\\use_of_dictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{934DA704-89D8-4D5F-8AA8-8EA3A601AE9E}|Use_of_Dictionary\\Use_of_Dictionary.csproj|solutionrelative:use_of_dictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDE9763-E934-4F56-AB29-0B6620B9F5A4}|List_Operations\\List_Operations.csproj|c:\\users\\user1\\source\\repos\\ce138_lab2\\list_operations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EDE9763-E934-4F56-AB29-0B6620B9F5A4}|List_Operations\\List_Operations.csproj|solutionrelative:list_operations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3257D2-8B0D-42FE-A7FF-C0BD2A4FBC8A}|Use_Of_Collection\\Use_Of_Collection.csproj|c:\\users\\user1\\source\\repos\\ce138_lab2\\use_of_collection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B3257D2-8B0D-42FE-A7FF-C0BD2A4FBC8A}|Use_Of_Collection\\Use_Of_Collection.csproj|solutionrelative:use_of_collection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\source\\repos\\CE138_Lab2\\BrowserHistorySimulation\\Program.cs",
+              "RelativeDocumentMoniker": "BrowserHistorySimulation\\Program.cs",
+              "ToolTip": "C:\\Users\\user1\\source\\repos\\CE138_Lab2\\BrowserHistorySimulation\\Program.cs",
+              "RelativeToolTip": "BrowserHistorySimulation\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-17T04:32:05.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\source\\repos\\CE138_Lab2\\Use_of_Dictionary\\Program.cs",
+              "RelativeDocumentMoniker": "Use_of_Dictionary\\Program.cs",
+              "ToolTip": "C:\\Users\\user1\\source\\repos\\CE138_Lab2\\Use_of_Dictionary\\Program.cs",
+              "RelativeToolTip": "Use_of_Dictionary\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-17T04:23:36.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\source\\repos\\CE138_Lab2\\List_Operations\\Program.cs",
+              "RelativeDocumentMoniker": "List_Operations\\Program.cs",
+              "ToolTip": "C:\\Users\\user1\\source\\repos\\CE138_Lab2\\List_Operations\\Program.cs",
+              "RelativeToolTip": "List_Operations\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-17T04:16:04.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\source\\repos\\CE138_Lab2\\Use_Of_Collection\\Program.cs",
+              "RelativeDocumentMoniker": "Use_Of_Collection\\Program.cs",
+              "ToolTip": "C:\\Users\\user1\\source\\repos\\CE138_Lab2\\Use_Of_Collection\\Program.cs",
+              "RelativeToolTip": "Use_Of_Collection\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-17T03:26:03.773Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
